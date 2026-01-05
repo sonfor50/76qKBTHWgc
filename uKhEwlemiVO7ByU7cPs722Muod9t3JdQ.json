@@ -22,5 +22,8 @@
     "hwid": null,
     "used": false,
     "resets": 1
+  },
+  "BLACKLIST": {
+    "1457455020160061635": true
   }
 }
